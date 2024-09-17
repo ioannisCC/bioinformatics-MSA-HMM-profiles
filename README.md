@@ -5,7 +5,7 @@ Overview
 
 This assignment involves the processing and analysis of synthetic DNA sequences using various computational methods:
 
-	1.	Synthetic Data Generation:
+	Synthetic Data Generation:
 			Objective: Generate synthetic DNA sequences using specific patterns.
 			Patterns: pattern1=ΑΑΤΤGA, pattern2=CGCTTAT, pattern3=GGACTCAT, pattern4=TTATTCGTA.
 			Data Output: Two datasets, datasetA and datasetB, are produced and stored in separate files.
