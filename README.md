@@ -1,13 +1,13 @@
 # bioinformatics-MSA-HMM-profiles
 
 
-DNA Sequence Analysis Assignment
+#DNA Sequence Analysis Assignment
 
-Overview
+##Overview
 
 This repository provides code for processing and analyzing synthetic DNA sequences using various computational techniques. The assignment covers synthetic sequence generation, multiple sequence alignment (MSA), and Hidden Markov Model (HMM) construction.
 
-Components
+###Components
 
 1. Synthetic Data Generation
 
