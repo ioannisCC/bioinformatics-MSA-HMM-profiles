@@ -1,5 +1,3 @@
-# bioinformatics-MSA-HMM-profiles
-
 
 # DNA Sequence Analysis Assignment
 
