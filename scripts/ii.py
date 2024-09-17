@@ -122,4 +122,3 @@ if __name__ == "__main__":
     print('\nAligned Dataset')
     for result in aligned_sequences:
         print(result)
-        kjaghbkjladsfvkjsedbvoelwisfvbiouswefgvbn;
